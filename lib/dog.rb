@@ -3,3 +3,4 @@
       @name = name
       @breed = breed
     end
+  end
